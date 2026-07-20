@@ -1,1 +1,14 @@
-
+[
+  {
+    "id": 1,
+    "label": "Merge API Parameter Not Explicitly Set",
+    "language": "Python",
+    "status": "Sample"
+  },
+  {
+    "id": 2,
+    "label": "Explicit Merge Parameters",
+    "language": "Python",
+    "status": "Refactored"
+  }
+]
