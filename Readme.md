@@ -105,7 +105,7 @@ During the internship, I worked on:
 
 ## Workflow
 
-![Workflow](images/ workflow.png)
+![Workflow](images/technicalworkflow.png)
 
 ---
 
@@ -117,7 +117,7 @@ During the internship, I worked on:
 
 ## Technology Stack
 
-![Technology](images/technology stack.png)
+![Technology](images/technologystack.png)
 
 ---
 
